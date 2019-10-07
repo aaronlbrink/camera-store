@@ -1,0 +1,27 @@
+# vscode
+.vscode/
+
+# dependencies
+node_modules
+
+# misc
+*.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+package-lock.json
+
+build/
+
+*~
+*.swp
+*\#*
+# Mac users :)
+.DS_Store
+
+core
+core.*
+
+*.tgz
